@@ -1,0 +1,1 @@
+Projeto de **testes manuais de uma aplicação de e-commerce**, desenvolvido para praticar conceitos de QA e Qualidade de Software. O projeto reúne criação e execução de casos de teste, testes positivos e negativos, registro de evidências e documentação de bugs, utilizando Excel, Git e GitHub.
