@@ -1,4 +1,4 @@
-*Projeto de Testes Manuais — E-commerce
+## Projeto de Testes Manuais — E-commerce
 
 Projeto desenvolvido como parte dos meus estudos em **Qualidade de Software (QA)**, com o objetivo de praticar e demonstrar conceitos de **testes manuais**, criação de casos de teste, execução, registro de evidências e documentação de bugs.
 
